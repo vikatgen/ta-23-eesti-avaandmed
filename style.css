@@ -15,4 +15,5 @@
     max-width: 1000px;
     margin-block: 4rem;
     padding-block: 4rem;
+    margin-inline: auto;
 }
