@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.upper-container {
+    padding-block: 1rem;
+    padding-inline: 2rem;
+    background-color: lightgoldenrodyellow;
+    border-bottom: 2px solid black;
+}
+
+.container {
+    max-width: 1000px;
+    margin-block: 4rem;
+    padding-block: 4rem;
+}
